@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="163ca0b8-f945-4dc9-818b-07af6d78b7e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="61792e86-2a14-417b-bc7a-279f8316e3b6" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SpatieCrawler/crawler" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/sunra/php-simple-html-dom-parser" />
+      <path value="$PROJECT_DIR$/vendor/kub-at/php-simple-html-dom-parser" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1VwAcbuTUII9Bbq30jc2EEu9UwJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="163ca0b8-f945-4dc9-818b-07af6d78b7e3" name="Default Changelist" comment="" />
+      <created>1578153863422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578153863422</updated>
+      <workItem from="1578153864671" duration="1927000" />
+      <workItem from="1578155887973" duration="2490000" />
+      <workItem from="1578224837501" duration="11215000" />
+      <workItem from="1578236246721" duration="3162000" />
+      <workItem from="1578239456360" duration="19000" />
+      <workItem from="1578246094360" duration="582000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="214" width="800" height="677" key="#Composer" timestamp="1578155892435">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="214" width="800" height="677" key="#Composer/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1578155892435" />
+    <state x="605" y="141" width="700" height="823" key="#PHP" timestamp="1578155356470">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="605" y="141" width="700" height="823" key="#PHP/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1578155356470" />
+    <state x="693" y="468" width="523" height="259" key="ComposerInitDialogKey" timestamp="1578155007335">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="693" y="468" width="523" height="259" key="ComposerInitDialogKey/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1578155007335" />
+    <state x="755" y="478" width="399" height="149" key="NewPhpFileDialog" timestamp="1578239108519">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="755" y="478" width="399" height="149" key="NewPhpFileDialog/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1578239108519" />
+    <state x="766" y="281" key="SettingsEditor" timestamp="1578246155898">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="766" y="281" key="SettingsEditor/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1578246155898" />
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1578239456836">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1578239456836" />
+  </component>
+</project>
